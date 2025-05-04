@@ -1,4 +1,3 @@
-# Nhận diện biển báo giao thông 
 # Nhận diện và phân loại biển báo giao thông 
 
 - Mô hình đã có từ môn Học máy thống kê  (KNN, SVM, CNN) với độ chính xác cao hơn.
