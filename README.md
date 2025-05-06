@@ -39,4 +39,3 @@ Tập dữ liệu được sử dụng để đào tạo mô hình phân loại 
 - Fit
 - Prediction
 - Đánh giá mô hình
-# Nhandienbienbao
