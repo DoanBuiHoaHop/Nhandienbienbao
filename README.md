@@ -39,3 +39,5 @@ Tập dữ liệu được sử dụng để đào tạo mô hình phân loại 
 - Fit
 - Prediction
 - Đánh giá mô hình
+![43 Classes Meta](https://user-images.githubusercontent.com/<img width="514" alt="Screenshot 2025-05-07 135335" src="https://github.com/user-attachments/assets/19110a4d-b5ca-4787-9f95-78705dfa9265" />
+
