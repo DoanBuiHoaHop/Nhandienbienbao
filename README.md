@@ -39,5 +39,11 @@ Tập dữ liệu được sử dụng để đào tạo mô hình phân loại 
 - Fit
 - Prediction
 - Đánh giá mô hình
-![43 Classes Meta](https://user-images.githubusercontent.com/19110a4d-b5ca-4787-9f95-78705dfa9265)
+DEMO PYTHON streamlit nhadienbienbao.py
+  Nhận diện ảnh và đọc ảnh
+- Nhóm biển báo
+- Tên biển báo
+- Mô tả chi tiết
+- Mức xử phạt
+- Độ chính xác
 
