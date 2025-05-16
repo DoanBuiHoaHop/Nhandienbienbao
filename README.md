@@ -41,10 +41,12 @@ Tập dữ liệu được sử dụng để đào tạo mô hình phân loại 
 - Đánh giá mô hình
 
 ## DEMO PYTHON streamlit nhadienbienbao.py
+Lệnh Stremlit run nhadienbienbao.py
+![mô hình nhadienbienbao.py ]([https://user-images.githubusercontent.com/85627308/167721365-159d000f-5664-46b3-a048-019d69366696.png](https://github.com/DoanBuiHoaHop/Nhandienbienbao/blob/main/Screenshot%202025-05-07%20141557.png))
   Nhận diện ảnh và đọc ảnh
 - Nhóm biển báo
 - Tên biển báo
 - Mô tả chi tiết
 - Mức xử phạt
 - Độ chính xác
-
+![mô hình nhadienbienbao.py ](https://user-images.githubusercontent.com/85627308/167721365-159d000f-5664-46b3-a048-019d69366696.png)
