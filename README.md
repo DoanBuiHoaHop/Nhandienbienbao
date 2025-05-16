@@ -41,7 +41,7 @@ Tập dữ liệu được sử dụng để đào tạo mô hình phân loại 
 - Đánh giá mô hình
 
 ## DEMO PYTHON streamlit nhadienbienbao.py
-Lệnh Stremlit run nhadienbienbao.py
+Lệnh Streamlit run nhadienbienbao.py
 ![mô hình nhadienbienbao.py ](Screenshot%202025-05-07%20141557.png))
   Nhận diện ảnh và đọc ảnh
 - Nhóm biển báo
